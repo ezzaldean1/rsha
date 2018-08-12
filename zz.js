@@ -13,7 +13,7 @@ client.on('ready', () => {
   console.log(' Music Bot Is Online')
   console.log('---------------')
   client.user.setStatus("Online")
-    client.user.setActivity("To Music",{type: 'LISTENING'})
+    client.user.setActivity("Mincraft",{type: 'PLAYING'})
 	
 });
 	
